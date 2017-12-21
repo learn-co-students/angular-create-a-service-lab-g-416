@@ -8,7 +8,7 @@ function TotalController(MathService) {
         56,
         73,
         4,
-        889
+        8895
     ])
 }
 
