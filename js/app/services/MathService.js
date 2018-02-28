@@ -1,7 +1,7 @@
 // Your code here!
 function MathService(){
 	this.sum = function(array){
-		return array.reduce( (cv, acc) => cv + acc)
+		return array.reduce( (acc, cv) => cv + acc)
 	}
 
 }
